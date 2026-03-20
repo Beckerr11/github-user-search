@@ -2,6 +2,10 @@
 
 Simple GitHub profile lookup interface built with HTML, CSS, and JavaScript.
 
+## Live demo
+
+https://github-user-search-seven-kappa.vercel.app
+
 ## Overview
 
 This project focuses on:
