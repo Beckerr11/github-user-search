@@ -1,18 +1,27 @@
-# 🔎 GitHub User Search
+# GitHub User Search
 
-Projeto que busca informações de usuários do GitHub usando a API oficial.
+Simple GitHub profile lookup interface built with HTML, CSS, and JavaScript.
 
-## Tecnologias
+## Overview
+
+This project focuses on:
+
+- searching GitHub usernames through the public API
+- handling empty, loading, success, and error states
+- showing profile metrics and recently updated repositories
+- keeping the experience framework-free and easy to understand
+
+## Stack
 
 - HTML
 - CSS
 - JavaScript
-- GitHub API
+- GitHub REST API
 
-## Como usar
+## Local usage
 
-Digite o nome de um usuário do GitHub e clique em buscar.
+Open `index.html` in the browser, or serve the folder with any static server.
 
-## Autor
+## Author
 
-Douglas Aparecido da Silva
+Douglas Aparecido Silva
